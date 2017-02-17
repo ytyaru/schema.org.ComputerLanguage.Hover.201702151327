@@ -1,0 +1,9 @@
+.LangImg {
+  transition: all 200ms 0s ease;
+}
+.LangImg:hover {
+  background: #ccc;
+  width: 96px;
+  height: 96px;
+}
+
